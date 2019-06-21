@@ -21,3 +21,4 @@ public class BubbleSort {
     }
 }
 //以上是我们的冒泡排序
+//重在理解
