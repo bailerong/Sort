@@ -1,4 +1,7 @@
 public class quickSort {
+    //快速排序要选好基准
+    //快速排序分为递归和非递归
+    
     public static void sort(int[] a,int left,int right){
     int index;
     if(left>=right){
