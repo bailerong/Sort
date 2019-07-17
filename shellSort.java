@@ -1,3 +1,4 @@
+//这是我们的希尔排序
 public class shellSort{
     public static void shellSort(int[] a){
     int gap=3;
