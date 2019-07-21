@@ -2,7 +2,6 @@ public class selectSortTest {
     public static void selectSort(int[] a){
         int min=0;
         int flag=0;//我们的最小元素的位置
-
         for(int i=0;i<a.length;i++){
             min=a[i];
             flag=i;
