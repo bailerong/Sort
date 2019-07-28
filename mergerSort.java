@@ -13,7 +13,7 @@ public class mergerSort {
         for( i=0,k=mid+1;i<n2;i++,k++){
             R[i]=a[k];
         }
-
+//我们的归并排序
         for(k=left,i=0,j=0;i<n1&&j<n2;k++) {
             if (L[i] > R[j]) {
                 a[k] = L[i];
