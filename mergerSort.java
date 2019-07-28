@@ -22,7 +22,6 @@ public class mergerSort {
                 a[k] = R[j];
                 j++;
             }
-
         }
         //将我们剩下的进行放入我们的a数组中
         if(i<n1){
