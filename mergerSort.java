@@ -14,6 +14,7 @@ public class mergerSort {
             R[i]=a[k];
         }
 //我们的归并排序
+        //我们要知道我们的在做什么
         for(k=left,i=0,j=0;i<n1&&j<n2;k++) {
             if (L[i] > R[j]) {
                 a[k] = L[i];
